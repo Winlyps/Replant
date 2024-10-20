@@ -1,5 +1,5 @@
 name: Replant
 version: '1.0.0'
 main: winlyps.replant.Replant
-api-version: '1.20'
+api-version: '1.16'
 authors: [ Winlyps ]
